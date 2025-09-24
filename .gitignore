@@ -1,0 +1,4 @@
+tja1050_breakout-backups/
+production/backups/
+*.lck
+*.kicad_sch-bak

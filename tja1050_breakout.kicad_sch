@@ -2050,6 +2050,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C32713268"
+			(at 146.05 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db380105-ba84-4f34-8267-72e808a6aa7e")
 		)
@@ -2353,6 +2362,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
 			(at 80.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C5360899"
+			(at 80.01 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3064,6 +3082,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C32713270"
+			(at 44.45 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1ae14fb2-2d68-468b-9d56-15d2772fe15e")
 		)
@@ -3132,6 +3159,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 146.05 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C32713268"
 			(at 146.05 63.5 0)
 			(effects
 				(font

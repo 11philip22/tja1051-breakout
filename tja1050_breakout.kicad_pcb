@@ -140,6 +140,19 @@
 				)
 			)
 		)
+		(property "MPN" "C32713270"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76712802-63a8-4126-8356-56792dada053")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/eada8490-a104-4bce-a089-e0cff433b8ae")
 		(sheetname "/")
@@ -412,6 +425,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C5360899"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6343362-11a8-4ea9-b605-90a406817c82")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1395,6 +1421,19 @@
 				)
 			)
 		)
+		(property "MPN" "C32713268"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6320b2f7-6c8b-478b-905c-b7e3de158c34")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1aff38fe-6fcd-41d7-84ec-497ef43b881e")
 		(sheetname "/")
@@ -2250,6 +2289,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C32713268"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "321ad7fe-6256-4d2b-9ac5-2eec98bbb0d0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)

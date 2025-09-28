@@ -1614,7 +1614,7 @@
 				)
 			)
 		)
-		(property "Value" "CAN Jumper"
+		(property "Value" "Phoenix Block"
 			(at 2.54 5.72 90)
 			(layer "F.Fab")
 			(uuid "03d76cb0-dfd9-430d-97e0-af6cfce9eb97")
@@ -2219,7 +2219,7 @@
 				)
 			)
 		)
-		(property "Value" "Phoenix Block"
+		(property "Value" "CAN Jumper"
 			(at 0 4.92 0)
 			(layer "F.Fab")
 			(uuid "95386f15-c54e-4ec2-acbe-f206ab7da9a7")

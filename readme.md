@@ -7,3 +7,5 @@
 <p align="center">
     <img src="images/3.png" alt="Photo3" width="200"/>
 </p>
+
+![alt text](images/schematic.png)

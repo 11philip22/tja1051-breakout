@@ -1,10 +1,10 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
-"C1, C2",0402,2,30pF,C466228
-C3,0402,1,0.1uF,C1525
+"C1, C2",0603,2,30pF,C1658
+C3,0603,1,0.1uF,C14663
 J1,PinHeader_1x02_P2.54mm_Vertical,1,Termination Jumper,C32713268
 J2,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",1,Phoenix Block,C474950
 J3,PinHeader_1x02_P2.54mm_Vertical,1,CAN Jumper,C32713268
 J4,PinHeader_1x04_P2.54mm_Vertical,1,Jumper,C32713270
 J5,PinHeader_1x03_P2.54mm_Vertical,1,CANS Jumper,C5360899
-R1,0402,1,120,C25079
+R1,0603,1,120,C22787
 U1,SOIC-8_3.9x4.9mm_P1.27mm,1,TJA1051T,C18387
